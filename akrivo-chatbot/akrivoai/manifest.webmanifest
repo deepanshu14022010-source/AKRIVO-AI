@@ -1,0 +1,19 @@
+{
+  "name": "AKRIVO AI",
+  "short_name": "AKRIVO",
+  "description": "AKRIVO AI chat assistant with direct answers, voice controls, and live web sources.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#0f766e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
